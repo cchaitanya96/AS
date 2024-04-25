@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com");
+@import url("https://fonts.gstatic.com");
+@import url("https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap");
+
+body{
+    display:flex;
+	justify-content:center;
+	align-items:center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body2{
+    display:flex;
+	justify-content:center;
+	align-items:center;
+    background-size: cover;
+}
+
+.font {
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+.div1{
+    display: flex;
+    padding: 10px;
+}
+
+.divm{
+    display: flex;
+    justify-content:space-between;
+	align-items:center;
+    background-color: white;
+    width: 45%;
+    border-radius: 10px; 
+}
+
+
+.input1{
+    padding-left: 40px;
+}
+
+form{
+    padding: 10px;
+}
+
+.divinp{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+
+}
+
+.brand{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+
+}
+
+.button{
+    display: flex;
+    width: 100%;
+	justify-content:center;
+	align-items:center;
+    padding: 20px;
+}
+
+.fs{
+    padding: 70px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.img{
+    border-top-right-radius:10px ;
+    border-bottom-right-radius:10px; 
+}
+
+.message-container{
+    display: flex;
+    justify-content: center;
+    color: crimson;
+}
